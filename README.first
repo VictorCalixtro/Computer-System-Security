@@ -1,0 +1,8 @@
+tcps.c and tcph.c are the source code of the server.
+tcpc.c is the source code of the good client.
+attack.c is the source code of the attacker.
+
+"make" to compile the source code.
+"make clean" to remove the execuables.
+"make install" to install all files and reboot.
+
